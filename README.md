@@ -25,7 +25,7 @@ I have 15 years' experience, both client-side and agency, delivering digital sol
 * **Increased cross-sell volumes by 465%** in just three months (at Three)
 * **Wrote a popular article** on [Design Sprints](https://medium.com/three-uk-experience-team/our-first-5-day-design-sprint-31239d0331f8#.f9w4ham7g), showing off our user-centric practices at Three
 * **Generated a £1m+ pipeline of work** following a mobile strategy I produced for HSBC (at HeathWallace)
-* **Won a 'Digital Impact Award'** for an RBS 'Changing the Bank' strategy microsite I did the UX for (at HeathWallace)
+* **Won a 'Digital Impact Award'** for an RBS 'Changing the Bank' strategy microsite (at HeathWallace)
 * **Lectured in Human Computer Interaction (HCI)** at Reading University
 
 ## Recent, relevant work experience
