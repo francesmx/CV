@@ -33,7 +33,8 @@ I have 15 years' experience, both client-side and agency, delivering digital sol
 ## Education & qualifications:
 * **Makers Academy Bootcamp** 2016 (16-week intensive course in software craftsmanship, test-driven development, pair programming). I've been blogging about this - see [A Parent's Adventures in Codeland](https://medium.com/a-parents-adventures-in-codeland)  
 * **Certified Scrum Product Owner** (since 2008)
-* **B.Sc. Computer Science & Electronic Music**, 2:1, University of Keele, UK (graduated 2001)
+* **B.Sc. Computer Science & Electronic Music**, 2.1, University of Keele, UK (graduated 2001)
+* A-levels in Mathematics (A), Music Technology (A), Business Studies (A), A/S-levels in Law (A) and General Studies (A)
 
 ## Curiosities:
 * I **play the piano to diploma standard** and perform regularly as part of an amateur meet-up
