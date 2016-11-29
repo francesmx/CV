@@ -6,8 +6,9 @@ I have 15 years' experience, both client-side and agency, delivering digital sol
 ## Things I can do:
 * design and carry out research to **understand customer needs** and pain points
 * come up with **creative concepts** to solve problems
-* **bring concepts to life** quickly, on paper or interactively
+* **bring concepts to life** quickly, on paper or interactively, using wireframing techniques
 * **test and iterate concepts** with the market, using Lean techniques
+* come up with **strategic roadmaps** based on relative effort and value
 * **coach teams** in user experience, lean, and agile techniques
 * **persevere** in challenging situations
 * foster a **culture of innovation, experimentation, trust, freedom and fun**
