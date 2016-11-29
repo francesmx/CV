@@ -41,9 +41,9 @@ I have 15 years' experience, both client-side and agency, delivering digital sol
 * **B.Sc. Computer Science & Electronic Music**, 2:1, University of Keele, UK (graduated 2001)
 
 ## Curiosities
-* I play the piano to diploma standard and perform regularly at the local conservatoire as part of an amateur meet-up. I'm also learning the banjo.
+* I **play the piano to diploma standard** and perform regularly at the local conservatoire as part of an amateur meet-up. I'm also learning the banjo.
 * In 1992, i was the **only female participant** to get to the **Regional Finals of the National Computer Games Championship**
-* I once had a voicemail from MI5 asking me to call them back
+* I once had a **voicemail from MI5** asking me to call them back
 * I went to 7 primary schools and 3 secondary schools (and had 33 penpals as a result)
 
 ## Lovely things people have said
