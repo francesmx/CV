@@ -34,7 +34,7 @@ I have 15 years' experience, both client-side and agency, delivering digital sol
 * **Makers Academy Bootcamp** 2016 (16-week intensive course in software craftsmanship, test-driven development, pair programming). I've been blogging about this - see [A Parent's Adventures in Codeland](https://medium.com/a-parents-adventures-in-codeland)  
 * **Certified Scrum Product Owner** (since 2008)
 * **B.Sc. Computer Science & Electronic Music**, 2.1, University of Keele, UK (graduated 2001)
-* **A-levels** in Mathematics (A), Music Technology (A) and Business Studies (A)
+* **A-levels** in Mathematics (A), Business Studies (A), and Music Technology (A)
 * **A/S-levels** in Law (A) and General Studies (A) (each equivalent to half an A-level)
 
 ## Curiosities:
@@ -73,4 +73,4 @@ I have a great permanent job with Three, however I have specific interests in:
 * **startups** / entrepreneurship / solving juicy problems elegantly
 * **bringing people together** / facilitating human connection
 
-So I am potentially open to collaborations and opportunities associated with these.
+So I am potentially open to collaborations and opportunities associated with these. I'm also open to pro-bono work for the right cause.
