@@ -27,6 +27,7 @@ I have 15 years' experience, both client-side and agency, delivering digital sol
 * **Generated a £1m+ pipeline of work** following a mobile strategy I produced for HSBC (at HeathWallace)
 * **Won a 'Digital Impact Award'** for an RBS 'Changing the Bank' strategy microsite I did the UX for (at HeathWallace)
 * **Lectured in HCI** at Reading University
+* I was the **only female participant** to get to the **Regional Finals of the National Computer Games Championship** in 1992 :)
 
 ## Recent, relevant work experience
 * 2+ years as **Lead User Experience Architect** at Three UK (mobile network operator)
@@ -36,9 +37,9 @@ I have 15 years' experience, both client-side and agency, delivering digital sol
 * 1.5 years as **Channel Producer & Developer** at Opus Media (start-up)
 
 ## Education & qualifications
-* Makers Academy Bootcamp 2016 (16-week intensive course in software craftsmanship, test-driven development, pair programming). I've been blogging about this - see [A Parent's Adventures in Codeland](https://medium.com/a-parents-adventures-in-codeland)  
-* Certified Scrum Product Owner (since 2008)
-* BSc Computer Science & Electronic Music, 2:1, University of Keele, UK
+* **Makers Academy Bootcamp** 2016 (16-week intensive course in software craftsmanship, test-driven development, pair programming). I've been blogging about this - see [A Parent's Adventures in Codeland](https://medium.com/a-parents-adventures-in-codeland)  
+* **Certified Scrum Product Owner** (since 2008)
+* **B.Sc. Computer Science & Electronic Music**, 2:1, University of Keele, UK (scholarship winner)
 
 ## Nice things people have said
 "Frances is an absolute joy to work with. Not only are her UX/design skills & consultative abilities top-class, she's an inspiring and natural leader who motivates and nurtures the team in what seems like an effortless manner."
