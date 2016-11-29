@@ -38,8 +38,8 @@ I have 15 years' experience, both client-side and agency, delivering digital sol
 * I **play the piano to diploma standard** and perform at the local conservatoire as part of an amateur meet-up
 * I'm also **learning the banjo**. I'd love to learn all instruments if I had time! Maybe the cello next.
 * In 1992, I was the **only female** to get to the **Regional Finals** of the **National Computer Games Championship**
+* I went to **7 primary schools and 3 secondary schools**, and had 33 penpals as a result
 * I once had a **voicemail from MI5** asking me to call them back
-* I went to **7 primary schools and 3 secondary schools** (and had 33 penpals as a result)
 
 ## Nice things people have said
 "Frances is an **absolute joy to work with**. Not only are her **UX/design skills & consultative abilities top-class**, she's an **inspiring and natural leader** who motivates and nurtures the team in what seems like an effortless manner."
