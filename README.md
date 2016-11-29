@@ -66,7 +66,7 @@ Andy Jeffries, CTO at Absolute DevOps.
 I have a great permanent job with Three, however I have specific interests in:
 * positive psychology / wellbeing / positive habit change
 * bringing people together / facilitating human connection
-* classical music, esp. breaking down barriers / learning an instrument / sharing favourite pieces / playing with others
+* classical music, esp. breaking down barriers / learning to play / sharing favourite pieces / playing with others
 * children, encouraging their development, finding a way to balance work and parenting
 * startups / entrepreneurship / solving juicy problems elegantly
 
