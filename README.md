@@ -13,12 +13,6 @@ I have 15 years' experience, both client-side and agency, delivering digital sol
 * **persevere** in challenging situations
 * foster a **culture of innovation, experimentation, trust, freedom and fun**
 
-## Things I believe in:
-* **purpose-driven organisations**, e.g. Zappos, Medium, Makers Academy, and **bringing your whole self to work**
-* putting **customer and employee experience** at the heart of your organisation
-* doing a great job but **having a great time** doing it
-* **agile / lean** methodologies
-
 ## Things I've done:
 * Achieved **highest ever net promoter and customer satisfaction scores** for online network journeys (at Three)
 * Contributed to **45% reduction in network-related call volumes**, equating to target **savings of £500k** (at Three)
@@ -61,6 +55,11 @@ Tara Hamilton-Whitaker, Director of Programmes at Time Inc UK.
 
 "Anyone who meets her and doesn't make her an instant offer is making one of the biggest mistakes possible for their company."
 Andy Jeffries, CTO at Absolute DevOps.
+
+## Things I believe in:
+* **purpose-driven organisations**, e.g. Zappos, Medium, Makers Academy, and **bringing your whole self to work**
+* putting **customer and employee experience** at the heart of your organisation
+* doing a great job but **having a great time** doing it
 
 ## What I'm looking for:
 I have a great permanent job with Three, however I have specific interests in:
