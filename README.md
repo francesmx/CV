@@ -1,25 +1,25 @@
 # Frances Maxwell
 **User Experience Researcher, Architect & Strategist with Full Stack Development Skills**
 
-I have 15 years' experience delivering digital solutions for top-tier organisations in financial services, telecoms, publishing and central government - both agency and client-side. 
+I have **15 years' experience** delivering digital solutions for top-tier organisations in financial services, telecoms, publishing and central government - **both agency and client-side**. 
 
-I specialise in user research, information architecture, and digital experience strategy, and actively work on my interaction design and coding skills too.
+I specialise in **user research, information architecture, and digital experience strategy**, and actively work on my **interaction design and coding** skills too.
 
 ## Things I can do:
-* understand customer needs and pain points
-* come up with creative concepts to solve problems
-* bring concepts to life quickly
-* test concepts with the market
+* **understand customer needs** and pain points
+* come up with **creative concepts** to solve problems
+* **bring concepts to life** quickly
+* **test concepts** with the market
 * iterate, iterate, iterate
-* coach teams in UX, lean, and agile techniques
-* persevere in challenging situations
-* foster a culture of innovation, experimentation, trust, freedom and fun
+* **coach teams** in UX, lean, and agile techniques
+* **persevere** in challenging situations
+* foster a **culture of innovation, experimentation, trust, freedom and fun**
 
 ## Things I believe in:
-* purpose-driven organisations, e.g. Zappos, Medium, Makers Academy, and bringing your whole self to work
-* putting customer and employee experience at the heart of your organisation
-* doing a great job but having a great time doing it
-* agile / lean methodologies
+* **purpose-driven organisations**, e.g. Zappos, Medium, Makers Academy, and **bringing your whole self to work**
+* putting **customer and employee experience** at the heart of your organisation
+* doing a great job but **having a great time** doing it
+* **agile / lean** methodologies
 
 ## Things I've done:
 * Achieved **highest ever net promoter and customer satisfaction scores** for online network journeys (at Three)
