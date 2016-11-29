@@ -4,11 +4,10 @@
 I have 15 years' experience, both client-side and agency, delivering digital solutions for top-tier organisations in financial services, telecoms, publishing and central government. I specialise in research, information architecture, and digital strategy, but actively work on my interaction design and development skills too.
 
 ## Things I can do:
-* **understand customer needs** and pain points
+* design and carry out research to **understand customer needs** and pain points
 * come up with **creative concepts** to solve problems
 * **bring concepts to life** quickly, on paper or interactively
-* **test concepts** with the market
-* iterate, iterate, iterate
+* **test and iterate concepts** with the market, using Lean techniques
 * **coach teams** in user experience, lean, and agile techniques
 * **persevere** in challenging situations
 * foster a **culture of innovation, experimentation, trust, freedom and fun**
