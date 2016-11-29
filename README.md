@@ -11,7 +11,7 @@ I have 15 years' experience, both client-side and agency, delivering digital sol
 * **Test and iterate concepts** with the market, using lean / agile techniques
 * Create **strategic product roadmaps** based on relative effort and value
 * **Coach teams** in user experience, lean, and agile techniques
-* **Oersevere** in challenging situations
+* **Persevere** in challenging situations
 * Foster a **culture of innovation, experimentation, trust, freedom and fun**
 
 ## Things I've done:
