@@ -6,7 +6,7 @@ I have 15 years' experience, both client-side and agency, delivering digital sol
 ## Things I can do:
 * **understand customer needs** and pain points
 * come up with **creative concepts** to solve problems
-* **bring concepts to life** quickly
+* **bring concepts to life** quickly, on paper or interactively
 * **test concepts** with the market
 * iterate, iterate, iterate
 * **coach teams** in UX, lean, and agile techniques
