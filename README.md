@@ -1,5 +1,5 @@
 # Frances Maxwell
-**User Experience Researcher, Architect & Strategist with Full Stack Development Skills**
+###User Experience Researcher, Architect & Strategist with Full Stack Development Skills
 
 I have **15 years' experience** delivering digital solutions for top-tier organisations in **financial services, telecoms, publishing and central government** - both **agency and client-side**
 
