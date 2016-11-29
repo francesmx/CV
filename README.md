@@ -37,9 +37,9 @@ I specialise in **user research, information architecture, and digital experienc
 * 1.5 years as **Channel Producer & Developer** at Opus Media (start-up)
 
 ## Education & qualifications
-* Makers Academy Bootcamp 2016 (16-week intensive course in software craftsmanship, test-driven development, pair programming)
+* Makers Academy Bootcamp 2016 (16-week intensive course in software craftsmanship, test-driven development, pair programming). I've been blogging about this - see [A Parent's Adventures in Codeland](https://medium.com/a-parents-adventures-in-codeland)  
 * Certified Scrum Product Owner (since 2008)
-* BSc Computer Science & Electronic Music, 2:1, Universty of Keele, UK
+* BSc Computer Science & Electronic Music, 2:1, University of Keele, UK
 
 ## Nice things people have said
 "Frances is an absolute joy to work with. Not only are her UX/design skills & consultative abilities top-class, she's an inspiring and natural leader who motivates and nurtures the team in what seems like an effortless manner."
