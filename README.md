@@ -23,24 +23,24 @@ I have 15 years' experience, both client-side and agency, delivering digital sol
 * **Won a 'Digital Impact Award'** for an RBS 'Changing the Bank' strategy microsite (at HeathWallace)
 * **Lectured in Human Computer Interaction (HCI)** at Reading University
 
-## Recent, relevant work experience
+## Recent, relevant work experience:
 * 2+ years as **Lead User Experience Architect** at [Three UK](http://www.three.co.uk/) (mobile network operator)
 * 5 years as **Managing Consultant - UX & Strategy** at [HeathWallace UK](http://www.heathwallace.com/) (Top 10 NMA Design & Build agency)
 * 1.5 years as **Product Manager** at [Time Inc, UK](https://www.timeincuk.com/) (consumer magazine publisher)
 * 1.5 years as **Digital Content Producer** at [Home Office](https://www.gov.uk/government/organisations/home-office) (central government department)
 * 1.5 years as **Channel Producer & Developer** at Opus Media (startup, no longer with us)
 
-## Education & qualifications
+## Education & qualifications:
 * **Makers Academy Bootcamp** 2016 (16-week intensive course in software craftsmanship, test-driven development, pair programming). I've been blogging about this - see [A Parent's Adventures in Codeland](https://medium.com/a-parents-adventures-in-codeland)  
 * **Certified Scrum Product Owner** (since 2008)
 * **B.Sc. Computer Science & Electronic Music**, 2:1, University of Keele, UK (graduated 2001)
 
-## Curiosities
+## Curiosities:
 * I **play the piano to diploma standard** and perform at the local conservatoire as part of an amateur meet-up
 * In 1992, I was the **only female** to get to the **Regional Finals** of the **National Computer Games Championship**
 * I once had a **voicemail from MI5** asking me to call them back
 
-## Nice things people have said
+## Nice things people have said:
 "Frances is an **absolute joy to work with**. Not only are her **UX/design skills & consultative abilities top-class**, she's an **inspiring and natural leader** who motivates and nurtures the team in what seems like an effortless manner."
 Josie Downey. Information Architect at HeathWallace.
 
