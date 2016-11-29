@@ -8,7 +8,7 @@ I have 15 years' experience, both client-side and agency, delivering digital sol
 * generate a volume of **creative ideas** to solve problems
 * **bring concepts to life** quickly (sketches, wireframes, interactive prototypes, full-blown working apps)
 * **organise information** on a webpage, and design **intuitive site structures / navigation**, using user-centred design
-* **test and iterate concepts** with the market, using Lean / agile techniques
+* **test and iterate concepts** with the market, using lean / agile techniques
 * create **strategic product roadmaps** based on relative effort and value
 * **coach teams** in user experience, lean, and agile techniques
 * **persevere** in challenging situations
