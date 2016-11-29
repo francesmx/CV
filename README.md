@@ -1,16 +1,16 @@
 # Frances Maxwell
 ###User Experience Researcher, Architect & Strategist with Full Stack Development Skills
 
-Probably the most enthusiastic digital professional you're likely to meet. I've been in love with the Internet since 1997.
+Probably the most enthusiastic digital professional you're likely to meet. I've been in love with the Internet since 1997 and I have fifteen years' experience across a range of sectors.
 
 ## Things I can do:
 * Carry out research to **understand customer needs** and pain points
 * Generate a volume of **creative ideas** to solve problems
 * **Bring concepts to life** quickly, from sketches, wireframes and interactive prototypes to full-blown working apps
 * **Organise information** on a webpage, and design **intuitive site structures and navigation**
-* **Test and iterate concepts** with the market, using lean / agile techniques
+* **Test and iterate concepts** with the market, using agile / lean techniques
 * Create **strategic product roadmaps** based on relative effort and value
-* **Coach teams** in user experience, lean, and agile techniques
+* **Coach teams** in user experience, agile, and lean techniques
 * **Persevere** in challenging situations
 * Foster a **culture of innovation, experimentation, trust, freedom and fun**
 
