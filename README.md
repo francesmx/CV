@@ -9,7 +9,7 @@ I have 15 years' experience, both client-side and agency, delivering digital sol
 * **bring concepts to life** quickly, on paper or interactively
 * **test concepts** with the market
 * iterate, iterate, iterate
-* **coach teams** in UX, lean, and agile techniques
+* **coach teams** in user experience, lean, and agile techniques
 * **persevere** in challenging situations
 * foster a **culture of innovation, experimentation, trust, freedom and fun**
 
@@ -26,7 +26,7 @@ I have 15 years' experience, both client-side and agency, delivering digital sol
 * **Wrote a popular article** on [Design Sprints](https://medium.com/three-uk-experience-team/our-first-5-day-design-sprint-31239d0331f8#.f9w4ham7g), showing off our user-centric practices at Three
 * **Generated a £1m+ pipeline of work** following a mobile strategy I produced for HSBC (at HeathWallace)
 * **Won a 'Digital Impact Award'** for an RBS 'Changing the Bank' strategy microsite I did the UX for (at HeathWallace)
-* **Lectured in HCI** at Reading University
+* **Lectured in Human Computer Interaction (HCI)** at Reading University
 
 ## Recent, relevant work experience
 * 2+ years as **Lead User Experience Architect** at Three UK (mobile network operator)
