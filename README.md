@@ -46,7 +46,7 @@ I have 15 years' experience, both client-side and agency, delivering digital sol
 * I once had a **voicemail from MI5** asking me to call them back
 * I went to 7 primary schools and 3 secondary schools (and had 33 penpals as a result)
 
-## Lovely things people have said
+## Nice things people have said
 "Frances is an absolute joy to work with. Not only are her UX/design skills & consultative abilities top-class, she's an inspiring and natural leader who motivates and nurtures the team in what seems like an effortless manner."
 Josie Downey. Information Architect at HeathWallace.
 
