@@ -23,11 +23,11 @@ I have 15 years' experience, both client-side and agency, delivering digital sol
 * **Lectured in Human Computer Interaction (HCI)** at Reading University
 
 ## Recent, relevant work experience
-* 2+ years as **Lead User Experience Architect** at Three UK (mobile network operator)
-* 5 years as **Managing Consultant - UX & Strategy** at HeathWallace UK (Top 10 NMA Design & Build agency)
-* 1.5 years as **Product Manager** at Time Inc, UK (consumer magazine publisher)
-* 1.5 years as **Digital Content Producer** at Home Office (central government department)
-* 1.5 years as **Channel Producer & Developer** at Opus Media (start-up)
+* 2+ years as **Lead User Experience Architect** at [Three UK](http://www.three.co.uk/) (mobile network operator)
+* 5 years as **Managing Consultant - UX & Strategy** at [HeathWallace UK](http://www.heathwallace.com/) (Top 10 NMA Design & Build agency)
+* 1.5 years as **Product Manager** at [Time Inc, UK](https://www.timeincuk.com/) (consumer magazine publisher)
+* 1.5 years as **Digital Content Producer** at [Home Office](https://www.gov.uk/government/organisations/home-office) (central government department)
+* 1.5 years as **Channel Producer & Developer** at Opus Media (startup, no longer with us)
 
 ## Education & qualifications
 * **Makers Academy Bootcamp** 2016 (16-week intensive course in software craftsmanship, test-driven development, pair programming). I've been blogging about this - see [A Parent's Adventures in Codeland](https://medium.com/a-parents-adventures-in-codeland)  
