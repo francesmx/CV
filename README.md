@@ -68,6 +68,6 @@ I have a great permanent job with Three, however I have specific interests in:
 * bringing people together / facilitating human connection
 * classical music, esp. learning an instrument / sharing favourite pieces / playing with others
 * children, encouraging their development, finding a way to balance work and parenting
-* startups / entrepreneurship / solving juicy problems
+* startups / entrepreneurship / solving juicy problems elegantly
 
 So I am potentially open to collaborations and opportunities associated with these.
