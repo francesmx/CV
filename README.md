@@ -1,9 +1,7 @@
 # Frances Maxwell
 ###User Experience Researcher, Architect & Strategist with Full Stack Development Skills
 
-I have **15 years' experience** delivering digital solutions for top-tier organisations in **financial services, telecoms, publishing and central government** - both **agency and client-side**
-
-I specialise in **user research, information architecture, and digital experience strategy**, and actively work on my **interaction design and coding** skills too.
+I have **15 years' experience** delivering digital solutions for top-tier organisations in **financial services, telecoms, publishing and central government** - both **agency and client-side.** I specialise in **user research, information architecture, and digital experience strategy**, and actively work on my **interaction design and coding** skills too.
 
 ## Things I can do:
 * **understand customer needs** and pain points
@@ -25,6 +23,7 @@ I specialise in **user research, information architecture, and digital experienc
 * Achieved **highest ever net promoter and customer satisfaction scores** for online network journeys (at Three)
 * Contributed to **45% reduction in network-related call volumes**, equating to target **savings of £500k** (at Three)
 * **Increased cross-sell volumes by 465%** in just three months (at Three)
+* **Wrote a popular article** on [Design Sprints](https://medium.com/three-uk-experience-team/our-first-5-day-design-sprint-31239d0331f8#.f9w4ham7g), showing off our user-centric practices at Three
 * **Generated a £1m+ pipeline of work** following a mobile strategy I produced for HSBC (at HeathWallace)
 * **Won a 'Digital Impact Award'** for an RBS 'Changing the Bank' strategy microsite I did the UX for (at HeathWallace)
 * **Lectured in HCI** at Reading University
