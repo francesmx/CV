@@ -30,7 +30,7 @@ I have 15 years' experience, both client-side and agency, delivering digital sol
 
 ## Recent, relevant work experience
 * 2+ years as **Lead User Experience Architect** at Three UK (mobile network operator)
-* 5 years as **Managing Consultant - UX & Strategy** at HeathWallace UK (Top 10 NMA Deisgn & Build agency)
+* 5 years as **Managing Consultant - UX & Strategy** at HeathWallace UK (Top 10 NMA Design & Build agency)
 * 1.5 years as **Product Manager** at Time Inc, UK (consumer magazine publisher)
 * 1.5 years as **Digital Content Producer** at Home Office (central government department)
 * 1.5 years as **Channel Producer & Developer** at Opus Media (start-up)
@@ -42,7 +42,7 @@ I have 15 years' experience, both client-side and agency, delivering digital sol
 
 ## Curiosities
 * I **play the piano to diploma standard** and perform regularly at the local conservatoire as part of an amateur meet-up. I'm also learning the banjo.
-* In 1992, i was the **only female participant** to get to the **Regional Finals of the National Computer Games Championship**
+* In 1992, I was the **only female participant** to get to the **Regional Finals of the National Computer Games Championship**
 * I once had a **voicemail from MI5** asking me to call them back
 * I went to 7 primary schools and 3 secondary schools (and had 33 penpals as a result)
 
@@ -64,10 +64,10 @@ Andy Jeffries, CTO at Absolute DevOps.
 
 ## What I'm looking for:
 I have a great permanent job with Three, however I have specific interests in:
-* positive psychology / wellbeing / positive habit change
-* bringing people together / facilitating human connection
-* classical music, esp. breaking down barriers / learning to play / sharing favourite pieces / playing with others
-* children, encouraging their development, finding a way to balance working and parenting
-* startups / entrepreneurship / solving juicy problems elegantly
+* **positive psychology** / wellbeing / positive habit change
+* **bringing people together** / facilitating human connection
+* **classical music**, esp. breaking down barriers / learning to play / sharing favourite pieces / playing with others
+* **children**, encouraging their development, finding a way to balance working and parenting
+* **startups** / entrepreneurship / solving juicy problems elegantly
 
 So I am potentially open to collaborations and opportunities associated with these.
