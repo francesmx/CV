@@ -32,7 +32,7 @@ Probably the most enthusiastic digital professional you're likely to meet. I've 
 * 1.5 years as **Channel Producer & Developer** at Opus Media (startup, no longer with us)
 
 ## Education & qualifications:
-* **Makers Academy Bootcamp**, 16-week intensive course in software craftsmanship, test-driven development and pair programming. I've been blogging about this - see [A Parent's Adventures in Codeland](https://medium.com/a-parents-adventures-in-codeland) (graduated December 2016)
+* **Makers Academy Bootcamp**, 16-week intensive course in software craftsmanship, test-driven development and pair programming. See my blog [A Parent's Adventures in Codeland](https://medium.com/a-parents-adventures-in-codeland) (graduated December 2016)
 * **Certified Scrum Product Owner** (since 2008)
 * **B.Sc. Computer Science & Electronic Music**, 2.1, University of Keele, UK (graduated 2001)
 * **A-levels** in Mathematics (A), Business Studies (A), and Music Technology (A)
