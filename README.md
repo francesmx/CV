@@ -8,11 +8,11 @@ Probably the most enthusiastic digital professional you're likely to meet. I've 
 * Generate a volume of **creative ideas** to solve problems
 * **Bring concepts to life** quickly, from sketches, wireframes and interactive prototypes to full-blown working apps
 * **Organise information** on a webpage, and design **intuitive site structures and navigation**
-* **Test and iterate concepts** with the market, using agile / lean techniques
+* **Test and iterate concepts** with the market, using lean / agile techniques
 * Create **strategic product roadmaps** based on relative effort and value
-* **Coach teams** in user experience, agile, and lean techniques
+* **Coach teams** in user experience, lean, and agile techniques
 * **Persevere** in challenging situations
-* Foster a **culture of innovation, experimentation, trust, freedom and fun**
+* Foster a **culture of innovation, experimentation, trust, freedom, and fun**
 
 ## Things I've done:
 * Achieved **highest ever net promoter and customer satisfaction scores** for online network journeys (at Three)
