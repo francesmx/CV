@@ -35,25 +35,25 @@ I have 15 years' experience, both client-side and agency, delivering digital sol
 * **B.Sc. Computer Science & Electronic Music**, 2:1, University of Keele, UK (graduated 2001)
 
 ## Curiosities
-* I **play the piano to diploma standard** and perform regularly at the local conservatoire as part of an amateur meet-up. I'm also learning the banjo.
+* I **play the piano to diploma standard** and perform regularly at the local conservatoire as part of an amateur meet-up. I'm also **learning the banjo**.
 * In 1992, I was the **only female participant** to get to the **Regional Finals of the National Computer Games Championship**
 * I once had a **voicemail from MI5** asking me to call them back
-* I went to 7 primary schools and 3 secondary schools (and had 33 penpals as a result)
+* I went to **7 primary schools and 3 secondary schools** (and had 33 penpals as a result)
 
 ## Nice things people have said
-"Frances is an absolute joy to work with. Not only are her UX/design skills & consultative abilities top-class, she's an inspiring and natural leader who motivates and nurtures the team in what seems like an effortless manner."
+"Frances is an **absolute joy to work with**. Not only are her **UX/design skills & consultative abilities top-class**, she's an **inspiring and natural leader** who motivates and nurtures the team in what seems like an effortless manner."
 Josie Downey. Information Architect at HeathWallace.
 
-"Frances is the most accomplished UX professional I've had the pleasure of working with."
+"Frances is the **most accomplished UX professional** I've had the pleasure of working with."
 Michael Davey, Director of UX & Strategy at HeathWallace
 
-"Frances is an incredibly friendly, talented and conscientious person to work with. Always happy to take time and listen, she is enthusiastic, has great attention to detail, without losing sight of the big picture, and works damned hard, too. "
+"Frances is an **incredibly friendly, talented and conscientious** person to work with. Always happy to take time and listen, she is **enthusiastic, has great attention to detail, without losing sight of the big picture, and works damned hard**, too. "
 Rob Mansfield. Digital Content Editor at Time Inc UK.
 
-"She has played a fundamental role in promoting and implementing Agile working practices across our Central Development function. This has lead to increased productivity, output and overall levels of satisfaction."
+"She has played a **fundamental role in promoting and implementing Agile working practices** across our Central Development function. This has lead to increased productivity, output and overall levels of satisfaction."
 Tara Hamilton-Whitaker, Director of Programmes at Time Inc UK.
 
-"Anyone who meets her and doesn't make her an instant offer is making one of the biggest mistakes possible for their company."
+**"Anyone who meets her and doesn't make her an instant offer is making one of the biggest mistakes possible for their company."**
 Andy Jeffries, CTO at Absolute DevOps.
 
 ## Things I believe in:
