@@ -31,7 +31,7 @@ Probably the most enthusiastic digital professional you're likely to meet. I've 
 * 1.5 years as **Channel Producer & Developer** at Opus Media (startup, no longer with us)
 
 ## Education & qualifications:
-* **Makers Academy Bootcamp** 2016 (16-week intensive course in software craftsmanship, test-driven development, pair programming). I've been blogging about this - see [A Parent's Adventures in Codeland](https://medium.com/a-parents-adventures-in-codeland)  
+* **Makers Academy Bootcamp**, 16-week intensive course in software craftsmanship, test-driven development and pair programming. I've been blogging about this - see [A Parent's Adventures in Codeland](https://medium.com/a-parents-adventures-in-codeland) (graduated December 2016)
 * **Certified Scrum Product Owner** (since 2008)
 * **B.Sc. Computer Science & Electronic Music**, 2.1, University of Keele, UK (graduated 2001)
 * **A-levels** in Mathematics (A), Business Studies (A), and Music Technology (A)
@@ -66,7 +66,7 @@ Andy Jeffries, CTO at Absolute DevOps.
 * doing a great job but **having a great time** doing it
 
 ## What I'm looking for:
-I have a great permanent job with Three, however I have specific interests in:
+I have a great permanent job with Three. However I have specific interests in:
 * **positive psychology** / wellbeing / positive habit change
 * **classical music**, esp. breaking down barriers / learning to play / sharing favourite pieces / playing with others
 * **children**, encouraging their development, finding a way to balance working and parenting
