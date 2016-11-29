@@ -57,7 +57,7 @@ Tara Hamilton-Whitaker, Director of Programmes at Time Inc UK.
 Andy Jeffries, CTO at Absolute DevOps.
 
 ## What I'm looking for:
-I have a great permanent job with my employer, Three, however I have specific interests in:
+I have a great permanent job with Three, however I have specific interests in:
 * positive psychology / wellbeing / positive habit change
 * bringing people together / facilitating human connection
 * classical music, esp. learning an instrument / sharing favourite pieces / playing with others
