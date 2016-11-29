@@ -37,6 +37,7 @@ I have 15 years' experience, both client-side and agency, delivering digital sol
 
 ## Curiosities:
 * I **play the piano to diploma standard** and perform regularly as part of an amateur meet-up
+* I used to work at a prestigious violin dealer, and once **hand-delivered $20m of instruments to New York**
 * In 1992, I was the **only female** to get to the **Regional Finals** of the **National Computer Games Championship**
 * I went to **7 primary schools and 3 secondary schools**, and had 33 penpals as a result
 * I once had a **voicemail from MI5** asking me to call them back :)
