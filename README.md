@@ -4,15 +4,15 @@
 I have 15 years' experience, both client-side and agency, delivering digital solutions for top-tier organisations in financial services, telecoms, publishing and central government. I specialise in research, information architecture, and digital strategy, but actively work on my interaction design and development skills too.
 
 ## Things I can do:
-* carry out research to **understand customer needs** and pain points
-* generate a volume of **creative ideas** to solve problems
-* **bring concepts to life** quickly, from sketches, wireframes and interactive prototypes to full-blown working apps
-* **organise information** on a webpage, and design **intuitive site structures and navigation**
-* **test and iterate concepts** with the market, using lean / agile techniques
-* create **strategic product roadmaps** based on relative effort and value
-* **coach teams** in user experience, lean, and agile techniques
-* **persevere** in challenging situations
-* foster a **culture of innovation, experimentation, trust, freedom and fun**
+* Carry out research to **understand customer needs** and pain points
+* Generate a volume of **creative ideas** to solve problems
+* **Bring concepts to life** quickly, from sketches, wireframes and interactive prototypes to full-blown working apps
+* **Organise information** on a webpage, and design **intuitive site structures and navigation**
+* **Test and iterate concepts** with the market, using lean / agile techniques
+* Create **strategic product roadmaps** based on relative effort and value
+* **Coach teams** in user experience, lean, and agile techniques
+* **Oersevere** in challenging situations
+* Foster a **culture of innovation, experimentation, trust, freedom and fun**
 
 ## Things I've done:
 * Achieved **highest ever net promoter and customer satisfaction scores** for online network journeys (at Three)
