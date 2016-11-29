@@ -5,16 +5,13 @@ I have 15 years' experience delivering digital solutions for top-tier organisati
 
 I specialise in user research, information architecture, and digital experience strategy, and actively work on my interaction design and coding skills too.
 
-## Things I can do as a practitioner:
+## Things I can do:
 * understand customer needs and pain points
 * come up with creative concepts to solve problems
 * bring concepts to life quickly
 * test concepts with the market
 * iterate, iterate, iterate
-
-## Things I can do as a leader:
 * coach teams in UX, lean, and agile techniques
-* pay close attention to the needs of individuals
 * persevere in challenging situations
 * foster a culture of innovation, experimentation, trust, freedom and fun
 
