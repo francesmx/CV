@@ -23,7 +23,7 @@ I specialise in **user research, information architecture, and digital experienc
 
 ## Things I've done:
 * Achieved **highest ever net promoter and customer satisfaction scores** for online network journeys (at Three)
-* Contributed to **45% reduction in network-related call volumes**, equating to target savings of £500k (at Three)
+* Contributed to **45% reduction in network-related call volumes**, equating to target **savings of £500,000** (at Three)
 * **Increased cross-sell volumes by 465%** in just three months (at Three)
 * **Generated a £1m+ pipeline of work** following a mobile strategy I produced for HSBC (at HeathWallace)
 * **Won a 'Digital Impact Award'** for an RBS 'Changing the Bank' strategy microsite I did the UX for (at HeathWallace)
