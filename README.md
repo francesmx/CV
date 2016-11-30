@@ -36,7 +36,6 @@ One of the most enthusiastic digital professionals you're likely to meet. I've b
 * **Certified Scrum Product Owner** (since 2008)
 * **B.Sc. Computer Science & Electronic Music**, 2.1, University of Keele, UK (graduated 2001)
 * **A-levels** in Mathematics (A), Business Studies (A), and Music Technology (A)
-* **A/S-levels** in Law (A) and General Studies (A) (each equivalent to half an A-level)
 
 ## Curiosities:
 * I **play the piano to diploma standard** and perform regularly as part of an amateur meet-up
