@@ -1,7 +1,7 @@
 # Frances Maxwell
 ###User Experience Researcher, Architect & Strategist with Full Stack Development Skills
 
-Probably the most enthusiastic digital professional you're likely to meet. I've been in love with the Internet since 1997 and I have fifteen years' experience across a range of sectors.
+One of the most enthusiastic digital professionals you're likely to meet. I've been in love with the Internet since 1997, and I have fifteen years' experience across a range of sectors.
 
 ## Things I can do:
 * Carry out research to **understand customer needs** and pain points
