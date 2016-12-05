@@ -7,7 +7,7 @@ One of the most enthusiastic people you're likely to meet. I've been in love wit
 * Carry out research to **understand customer needs** and pain points
 * Generate a volume of **creative ideas** to solve problems, and **prioritise** them, balancing effort and value
 * **Bring concepts to life** quickly, from sketches, wireframes and interactive prototypes, to full-blown working apps
-* **Organise information at page or structural level**, aiding findability and comprehension
+* **Make content easy to find and understand**, at both page and structural level
 * **Test and iterate concepts** with the market, using lean / agile techniques
 * **Coach teams** in user experience, lean, and agile techniques
 * **Persevere** in challenging situations
