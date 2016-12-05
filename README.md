@@ -6,7 +6,7 @@ One of the most enthusiastic digital professionals you're likely to meet. I've b
 ## Things I can do:
 * Carry out research to **understand customer needs** and pain points
 * Generate a volume of **creative ideas** to solve problems, and **prioritise** them, balancing effort and value
-* **Bring ideas to life** quickly, from sketches, wireframes and interactive prototypes, to full-blown working apps
+* **Bring concepts to life** quickly, from sketches, wireframes and interactive prototypes, to full-blown working apps
 * **Organise information** on a webpage, and design **intuitive site structures and navigation**
 * **Test and iterate concepts** with the market, using lean / agile techniques
 * **Coach teams** in user experience, lean, and agile techniques
