@@ -1,13 +1,13 @@
 # Frances Maxwell
 ###User Experience Researcher, Architect & Strategist with Full Stack Development Skills
 
-One of the most enthusiastic people you're likely to meet. I've been in love with the internet since 1997, and I have fifteen years' digital experience across a range of sectors.
+One of the most enthusiastic people you're likely to meet. I've been in love with the internet since 1997, and I have fifteen years' digital experience across a load of sectors.
 
 ## Things I can do:
 * Carry out research to **understand customer needs** and pain points
 * Generate a volume of **creative ideas** to solve problems, and **prioritise** them, balancing effort and value
 * **Bring concepts to life** quickly, from sketches, wireframes and interactive prototypes, to full-blown working apps
-* **Make content easy to find and understand**, at both page and structural level
+* **Make content easy to find and understand**, at both a page and a structural level
 * **Test and iterate concepts** with the market, using lean / agile techniques
 * **Coach teams** in user experience, lean, and agile techniques
 * **Persevere** in challenging situations
@@ -52,7 +52,7 @@ Michael Davey, Director of UX & Strategy at HeathWallace
 "Frances is an **incredibly friendly, talented and conscientious** person to work with. Always happy to take time and listen, she is **enthusiastic, has great attention to detail, without losing sight of the big picture, and works damned hard**, too. "
 Rob Mansfield, Digital Content Editor at Time Inc UK.
 
-"She has played a **fundamental role in promoting and implementing Agile working practices** across our Central Development function. This has lead to increased productivity, output and overall levels of satisfaction."
+"She has played a **fundamental role in promoting and implementing Agile working practices** across our Central Development function. This has lead to **increased productivity, output and overall levels of satisfaction**."
 Tara Hamilton-Whitaker, Director of Programmes at Time Inc UK.
 
 **"Anyone who meets her and doesn't make her an instant offer is making one of the biggest mistakes possible for their company."**
