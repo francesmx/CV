@@ -1,9 +1,9 @@
 # Frances Maxwell
-##User Experience Researcher, Architect & Strategist with Full Stack Development Skills
+**User Experience Researcher, Architect & Strategist with Full Stack Development Skills**
 
 One of the most enthusiastic people you're likely to meet. I've been in love with the internet since 1997, and I have fifteen years' digital experience across a load of sectors.
 
-### Things I can do:
+## Things I can do:
 * Carry out research to **understand customer needs** and pain points
 * Generate a volume of **creative ideas** to solve problems, and **prioritise** them, balancing effort and value
 * **Bring concepts to life** quickly, from sketches, wireframes and interactive prototypes, to full-blown working apps
@@ -13,7 +13,7 @@ One of the most enthusiastic people you're likely to meet. I've been in love wit
 * **Persevere** in challenging situations
 * Foster a **culture of innovation, experimentation, trust, freedom, and fun**
 
-### Things I've done:
+## Things I've done:
 * Achieved **highest ever net promoter and customer satisfaction scores** for online network journeys (at Three)
 * Contributed to **45% reduction in network-related call volumes**, equating to target **savings of £500k** (at Three)
 * **Increased cross-sell volumes by 465%** in just three months (at Three)
@@ -23,26 +23,26 @@ One of the most enthusiastic people you're likely to meet. I've been in love wit
 * **Won a 'Digital Impact Award'** for an RBS 'Changing the Bank' strategy microsite (at HeathWallace)
 * **Lectured in Human Computer Interaction (HCI)** at Reading University
 
-### Recent, relevant work experience:
+## Recent, relevant work experience:
 * 2+ years as **Lead User Experience Architect** at [Three UK](http://www.three.co.uk/) (mobile network operator)
 * 5 years as **Managing Consultant - UX & Strategy** at [HeathWallace UK](http://www.heathwallace.com/) (Top 10 NMA Design & Build agency)
 * 1.5 years as **Product Manager** at [Time Inc, UK](https://www.timeincuk.com/) (consumer magazine publisher)
 * 1.5 years as **Digital Content Producer** at [Home Office](https://www.gov.uk/government/organisations/home-office) (central government department)
 * 1.5 years as **Channel Producer & Developer** at Opus Media (startup, no longer with us)
 
-### Education & qualifications:
+## Education & qualifications:
 * **Makers Academy Bootcamp**, 16-week intensive course in software craftsmanship, test-driven development and pair programming. See my blog [A Parent's Adventures in Codeland](https://medium.com/a-parents-adventures-in-codeland) (graduated December 2016)
 * **Certified Scrum Product Owner** (since 2008)
 * **B.Sc. Computer Science & Electronic Music**, 2.1, University of Keele, UK (graduated 2001)
 * **A-levels** in Mathematics (A), Business Studies (A), and Music Technology (A)
 
-### Curiosities:
+## Curiosities:
 * I **play the piano to diploma standard** and perform regularly as part of an amateur meet-up
 * I used to work at a prestigious violin dealer, and once **hand-delivered $20m of instruments to New York**
 * In 1992, I was the **only female** to get to the **Regional Finals** of the **National Computer Games Championship**
 * I once had a **voicemail from MI5** asking me to call them back :)
 
-### Nice things people have said:
+## Nice things people have said:
 "Frances is an **absolute joy to work with**. Not only are her **UX/design skills & consultative abilities top-class**, she's an **inspiring and natural leader** who motivates and nurtures the team in what seems like an effortless manner."
 Josie Downey, Information Architect at HeathWallace.
 
@@ -58,12 +58,12 @@ Tara Hamilton-Whitaker, Director of Programmes at Time Inc UK.
 **"Anyone who meets her and doesn't make her an instant offer is making one of the biggest mistakes possible for their company."**
 Andy Jeffries, CTO at Absolute DevOps.
 
-### Things I believe in:
+## Things I believe in:
 * **purpose-driven organisations**, e.g. Zappos, Medium, Makers Academy, and **bringing your whole self to work**
 * putting **customer and employee experience** at the heart of your organisation
 * doing a great job but **having a great time** doing it
 
-### What I'm looking for:
+## What I'm looking for:
 I have a great permanent job as a Lead UX with Three. However I have specific interests in:
 * **positive psychology** / wellbeing / positive habit change
 * **classical music**, esp. breaking down barriers / learning to play / sharing favourite pieces / playing with others
@@ -73,6 +73,6 @@ I have a great permanent job as a Lead UX with Three. However I have specific in
 
 So I am potentially open to collaborations and opportunities associated with these. I'm also open to pro-bono work for the right cause. 
 
-I would love to combine my UX background with my development skills (which I would say are 'classy junior' level) because I get a lot of joy out of bringing ideas to life. I am familiar with Ruby (vanilla, Sinatra, Rails) and JavaScript (vanilla, jQuery, Meteor) but I am more than happy to switch languages and frameworks.
+I would love to combine my UX background with my development skills, because I get a lot of joy out of bringing ideas to life. I am familiar with Ruby (vanilla, Sinatra, Rails) and JavaScript (vanilla, jQuery, Meteor) but I am more than happy to switch languages and frameworks.
 
-I'm based in Glasgow, UK, but I can travel occasionally and I'm very experienced with remote working - from both a technical and a cultural viewpoint!
+I'm based in Glasgow (UK) but I can travel occasionally, and I'm very experienced with remote working - from both a technical and a cultural viewpoint!
