@@ -31,7 +31,7 @@ One of the most enthusiastic people you're likely to meet. I've been in love wit
 * 1.5 years as **Channel Producer & Developer** at Opus Media (startup, no longer with us)
 
 ## Education & qualifications:
-* **Makers Academy Bootcamp**, 16-week intensive course in software craftsmanship, test-driven development and pair programming. See my blog [A Parent's Adventures in Codeland](https://medium.com/a-parents-adventures-in-codeland) (graduated December 2016)
+* **Makers Academy Bootcamp**, 16-week intensive course in software craftsmanship and test-driven development using Ruby and JavaScript as examples of classical and prototypal languages. See my blog [A Parent's Adventures in Codeland](https://medium.com/a-parents-adventures-in-codeland) (graduated December 2016)
 * **Certified Scrum Product Owner** (since 2008)
 * **B.Sc. Computer Science & Electronic Music**, 2.1, University of Keele, UK (graduated 2001)
 * **A-levels** in Mathematics (A), Business Studies (A), and Music Technology (A)
@@ -64,7 +64,7 @@ Andy Jeffries, CTO at Absolute DevOps.
 * doing a great job but **having a great time** doing it
 
 ## What I'm looking for:
-I have a great permanent job as a Lead UX with Three. However I have specific interests in:
+I have a great permanent job with Three. However I have specific interests in:
 * **positive psychology** / wellbeing / positive habit change
 * **classical music**, esp. breaking down barriers / learning to play / sharing favourite pieces / playing with others
 * **children**, encouraging their development, finding a way to balance working and parenting
@@ -73,6 +73,6 @@ I have a great permanent job as a Lead UX with Three. However I have specific in
 
 So I am potentially open to collaborations and opportunities associated with these. I'm also open to pro-bono work for the right cause. 
 
-I would love to combine my UX background with my development skills, because I get a lot of joy out of bringing ideas to life. I am familiar with Ruby (vanilla, Sinatra, Rails) and JavaScript (vanilla, jQuery, Meteor) but I am more than happy to switch languages and frameworks.
+I would love to combine my UX background with my development skills, because I get a lot of joy out of bringing ideas to life. I am familiar with Ruby (vanilla, Sinatra, Rails) and JavaScript (vanilla, jQuery, Meteor) and several testing frameworks, but could easily transfer to other languages and frameworks.
 
 I'm based in Glasgow (UK) but I can travel occasionally, and I'm very experienced with remote working - from both a technical and a cultural viewpoint!
