@@ -26,7 +26,7 @@ One of the most enthusiastic people you're likely to meet. I've been in love wit
 * 5 years as **Managing Consultant - UX & Strategy** at [HeathWallace UK](http://www.heathwallace.com/) (Top 10 NMA Design & Build agency)
 * 1.5 years as **Product Manager** at [Time Inc, UK](https://www.timeincuk.com/) (consumer magazine publisher)
 * 1.5 years as **Digital Content Producer** at [Home Office](https://www.gov.uk/government/organisations/home-office) (central government department)
-* 1.5 years as **Channel Producer & Developer** at Opus Media (startup, no longer with us)
+* 1.5 years as **Channel Producer & Developer** at Opus Media (startup)
 
 ## Education & qualifications:
 * **Makers Academy Bootcamp**, 16-week intensive course in software craftsmanship and test-driven development using Ruby and JavaScript as examples of classical and prototypal languages. See my blog [A Parent's Adventures in Codeland](https://medium.com/a-parents-adventures-in-codeland) (graduated December 2016)
