@@ -10,7 +10,6 @@ One of the most enthusiastic people you're likely to meet. I've been in love wit
 * **Make content easy to find and understand**, both on a page and whilst exploring a website or app
 * **Test and iterate concepts** with the market, using lean / agile techniques
 * **Coach teams** in user experience, lean, and agile techniques
-* **Persevere** in challenging situations
 * Foster a **culture of innovation, experimentation, trust, freedom, and fun**
 
 ## Things I've done:
@@ -19,12 +18,11 @@ One of the most enthusiastic people you're likely to meet. I've been in love wit
 * **Increased cross-sell volumes by 465%** in just three months (at Three)
 * **Wrote a popular article** on [Design Sprints](https://medium.com/three-uk-experience-team/our-first-5-day-design-sprint-31239d0331f8#.f9w4ham7g), showing off our user-centric practices at Three
 * **Generated a £1m+ pipeline of work** following a mobile strategy I produced for HSBC (at HeathWallace)
-* Produced an **innovative concept for an interactive digital wall** at Nationwide branches (at HeathWallace)
 * **Won a 'Digital Impact Award'** for an RBS 'Changing the Bank' strategy microsite (at HeathWallace)
 * **Lectured in Human Computer Interaction (HCI)** at Reading University
 
 ## Recent, relevant work experience:
-* 2+ years as **Lead User Experience Architect** at [Three UK](http://www.three.co.uk/) (mobile network operator)
+* Nearly 3 years as **Lead User Experience Architect** at [Three UK](http://www.three.co.uk/) (mobile network operator)
 * 5 years as **Managing Consultant - UX & Strategy** at [HeathWallace UK](http://www.heathwallace.com/) (Top 10 NMA Design & Build agency)
 * 1.5 years as **Product Manager** at [Time Inc, UK](https://www.timeincuk.com/) (consumer magazine publisher)
 * 1.5 years as **Digital Content Producer** at [Home Office](https://www.gov.uk/government/organisations/home-office) (central government department)
@@ -34,7 +32,7 @@ One of the most enthusiastic people you're likely to meet. I've been in love wit
 * **Makers Academy Bootcamp**, 16-week intensive course in software craftsmanship and test-driven development using Ruby and JavaScript as examples of classical and prototypal languages. See my blog [A Parent's Adventures in Codeland](https://medium.com/a-parents-adventures-in-codeland) (graduated December 2016)
 * **Certified Scrum Product Owner** (since 2008)
 * **B.Sc. Computer Science & Electronic Music**, 2.1, University of Keele, UK (graduated 2001)
-* **A-levels** in Mathematics (A), Business Studies (A), and Music Technology (A)
+* **A-levels** in Mathematics (A), Business Studies (A), and Music Technology (A), and A/S-Levels in Law (A), and General Studies (A)
 
 ## Curiosities:
 * I **play the piano to diploma standard** and perform regularly as part of an amateur meet-up
@@ -73,6 +71,6 @@ I have a great permanent job with Three. However I have specific interests in:
 
 So I am potentially open to collaborations and opportunities associated with these. I'm also open to pro-bono work for the right cause. 
 
-I would love to combine my UX background with my development skills, because I get a lot of joy out of bringing ideas to life. I am familiar with Ruby (vanilla, Sinatra, Rails) and JavaScript (vanilla, jQuery, Meteor) and several testing frameworks, but could easily transfer to other languages and frameworks.
+I would love to combine my UX background with my development skills, because I get a lot of joy out of bringing ideas to life. I am familiar with Ruby (vanilla, Sinatra, Rails) and JavaScript (vanilla, jQuery, Meteor, React Native) and several testing frameworks, but could easily transfer to other languages and frameworks.
 
 I'm based in Glasgow (UK) but I can travel occasionally, and I'm very experienced with remote working - from both a technical and a cultural viewpoint!
