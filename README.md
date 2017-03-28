@@ -1,5 +1,5 @@
 # Frances Maxwell
-###User Experience Researcher, Architect & Strategist with Full Stack Development Skills
+### User Experience Researcher, Architect & Strategist with Full Stack Development Skills
 
 One of the most enthusiastic people you're likely to meet. I've been in love with the internet since 1997, and I have fifteen years' digital experience across a load of sectors.
 
