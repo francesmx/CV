@@ -22,7 +22,7 @@ One of the most enthusiastic people you're likely to meet. I've been in love wit
 * **Lectured in Human Computer Interaction (HCI)** at Reading University
 
 ## Recent, relevant work experience:
-* Nearly 3 years as **Lead User Experience Architect** at [Three UK](http://www.three.co.uk/) (mobile network operator)
+* 3 years as **Lead User Experience Architect** at [Three UK](http://www.three.co.uk/) (mobile network operator)
 * 5 years as **Managing Consultant - UX & Strategy** at [HeathWallace UK](http://www.heathwallace.com/) (Top 10 NMA Design & Build agency)
 * 1.5 years as **Product Manager** at [Time Inc, UK](https://www.timeincuk.com/) (consumer magazine publisher)
 * 1.5 years as **Digital Content Producer** at [Home Office](https://www.gov.uk/government/organisations/home-office) (central government department)
