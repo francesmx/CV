@@ -33,7 +33,7 @@ One of the most enthusiastic people you're likely to meet. I've been in love wit
 * **Certified Scrum Product Owner** (since 2008)
 * **B.Sc. Computer Science & Electronic Music**, 2.1, University of Keele, UK (graduated 2001)
 * **A-levels** in Maths (A), Business Studies (A) and Music Technology (A)
-* **A/S-Levels** in Law (A) and General Studies (A) (equivalent to half an A-level)
+* **A/S-Levels** (equivalent to half an A-level) in Law (A) and General Studies (A) 
 * 12 GCSEs
 
 ## Curiosities:
