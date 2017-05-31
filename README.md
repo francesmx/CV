@@ -32,8 +32,9 @@ One of the most enthusiastic people you're likely to meet. I've been in love wit
 * **Makers Academy Bootcamp**, 16-week intensive course in software craftsmanship and test-driven development using Ruby and JavaScript as examples of classical and prototypal languages. See my blog [A Parent's Adventures in Codeland](https://medium.com/a-parents-adventures-in-codeland) (graduated December 2016)
 * **Certified Scrum Product Owner** (since 2008)
 * **B.Sc. Computer Science & Electronic Music**, 2.1, University of Keele, UK (graduated 2001)
-* **A-levels** in Mathematics (A), Business Studies (A) and Music Technology (A)
-* A/S-Levels in Law (A), General Studies (A). 12 GCSEs.
+* **A-levels** in Maths (A), Business Studies (A) and Music Technology (A)
+* **A/S-Levels** in Law (A) and General Studies (A) (equivalent to half an A-level)
+* 12 GCSEs
 
 ## Curiosities:
 * I **play the piano to diploma standard** and perform regularly as part of an amateur meet-up
