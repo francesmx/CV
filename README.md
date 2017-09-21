@@ -22,6 +22,7 @@ One of the most enthusiastic people you're likely to meet. I've been in love wit
 * **Lectured in Human Computer Interaction (HCI)** at Reading University
 
 ## Recent, relevant work experience:
+* Right now **Senior Service Designer** at [BJSS](http://www.bjss.com) (technology consultancy)
 * 3 years as **Lead User Experience Architect** at [Three UK](http://www.three.co.uk/) (mobile network operator)
 * 5 years as **Managing Consultant - UX & Strategy** at [HeathWallace UK](http://www.heathwallace.com/) (Top 10 NMA Design & Build agency)
 * 1.5 years as **Product Manager** at [Time Inc, UK](https://www.timeincuk.com/) (consumer magazine publisher)
@@ -43,11 +44,14 @@ One of the most enthusiastic people you're likely to meet. I've been in love wit
 * I once had a **voicemail from MI5** asking me to call them back :)
 
 ## Nice things people have said:
-"Frances is an **absolute joy to work with**. Not only are her **UX/design skills & consultative abilities top-class**, she's an **inspiring and natural leader** who motivates and nurtures the team in what seems like an effortless manner."
-Josie Downey, Information Architect at HeathWallace.
+**"Anyone who meets her and doesn't make her an instant offer is making one of the biggest mistakes possible for their company."**
+Andy Jeffries, CTO at Absolute DevOps.
 
 "Frances is the **most accomplished UX professional** I've had the pleasure of working with."
 Michael Davey, Director of UX & Strategy at HeathWallace
+
+"Frances is an **absolute joy to work with**. Not only are her **UX/design skills & consultative abilities top-class**, she's an **inspiring and natural leader** who motivates and nurtures the team in what seems like an effortless manner."
+Josie Downey, Information Architect at HeathWallace.
 
 "Frances is an **incredibly friendly, talented and conscientious** person to work with. Always happy to take time and listen, she is **enthusiastic, has great attention to detail, without losing sight of the big picture, and works damned hard**, too. "
 Rob Mansfield, Digital Content Editor at Time Inc UK.
@@ -55,23 +59,18 @@ Rob Mansfield, Digital Content Editor at Time Inc UK.
 "She has played a **fundamental role in promoting and implementing Agile working practices** across our Central Development function. This has lead to **increased productivity, output and overall levels of satisfaction**."
 Tara Hamilton-Whitaker, Director of Programmes at Time Inc UK.
 
-**"Anyone who meets her and doesn't make her an instant offer is making one of the biggest mistakes possible for their company."**
-Andy Jeffries, CTO at Absolute DevOps.
-
 ## Things I believe in:
 * **purpose-driven organisations**, e.g. Zappos, Medium, Makers Academy, and **bringing your whole self to work**
-* putting **customer and employee experience** at the heart of your organisation
-* doing a great job but **having a great time** doing it
+* putting both **customer and employee experience** at the heart of an organisation
+* doing a great job and **having a great time** doing it
 
 ## What I'm looking for:
-I have specific interests in:
+I am open to collaborations and opportunities associated with:
 * **positive psychology** / wellbeing / positive habit change
 * **classical music**, esp. breaking down barriers / learning to play / sharing favourite pieces / playing with others
 * **children**, encouraging their development, finding a way to balance working and parenting
 * **startups** / entrepreneurship / solving juicy problems elegantly
 * **bringing people together** / facilitating human connection
-
-So I am potentially open to collaborations and opportunities associated with these. I'm also open to pro-bono work for the right cause. 
 
 I would love to combine my UX background with my development skills, because I get a lot of joy out of bringing ideas to life. I am familiar with Ruby (vanilla, Sinatra, Rails) and JavaScript (vanilla, jQuery, Meteor, React Native) and several testing frameworks, but could easily transfer to other languages and frameworks.
 
