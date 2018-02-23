@@ -1,5 +1,5 @@
 # Frances Maxwell
-### Service Designer, Researcher & Information Architect with Full Stack Development Skills
+### User Experience & Service Designer with Full Stack Development Skills
 
 One of the most enthusiastic people you're likely to meet! I'm an all-round UX / Service Designer with skills in research, information architecture, usability, eye-tracking, structural and functional design, prototyping and development. 
 
@@ -12,6 +12,7 @@ I have 17 years' digital experience in financial services, telecoms, publishing,
 * **Make content easy to find and understand**, both on a page and whilst exploring a website or app
 * **Test and iterate concepts** with the market, using lean / agile techniques
 * **Coach teams** in user experience, lean, and agile techniques
+* **Design your organisation** to deliver better customer experiences
 * Foster a **culture of innovation, experimentation, trust, freedom, and fun**
 
 ## Things I've done:
