@@ -10,7 +10,7 @@ One of the most enthusiastic people you're likely to meet! I have 17 years' digi
 * **Make content easy to find and understand**, both on a page and whilst exploring a website or app
 * **Test and iterate concepts** with the market, using lean / agile techniques
 * **Coach teams** in user experience, lean, and agile techniques
-* **Design your organisation** to deliver better customer experiences
+* **Design your organisation** to deliver a better customer experience
 * Foster a **culture of innovation, experimentation, trust, freedom, and fun**
 
 ## Things I've done:
