@@ -14,6 +14,7 @@ One of the most enthusiastic people you're likely to meet! I have 17 years' digi
 * Foster a **culture of innovation, experimentation, trust, freedom, and fun**
 
 ## Things I've done:
+* Helped Disclosure Scotland pass the Scottish Government’s **Digital First Service Standard Assessment**, having contributed to the design of a new, user-centred application process with a **satisfaction score of 90%**
 * Achieved **highest ever net promoter and customer satisfaction scores** for online network journeys (at Three)
 * Contributed to **45% reduction in network-related call volumes**, equating to target **savings of £500k** (at Three)
 * **Increased cross-sell volumes by 465%** in just three months (at Three)
