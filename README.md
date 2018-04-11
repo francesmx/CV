@@ -1,5 +1,5 @@
 # Frances Maxwell
-### User Experience & Service Designer with Full Stack Development Skills
+### User Experience & Service Designer with Junior-Level Full Stack Development Skills
 
 One of the most enthusiastic people you're likely to meet! I have 17 years' digital experience in financial services, telecoms, publishing, government and the arts, and I'm an evangelist for human-centred, data-driven methods.
 
@@ -45,11 +45,6 @@ One of the most enthusiastic people you're likely to meet! I have 17 years' digi
 * I once had a **voicemail from MI5** asking me to call them back :)
 
 ## Nice things people have said:
-**"Anyone who meets her and doesn't make her an instant offer is making one of the biggest mistakes possible for their company."**
-Andy Jeffries, CTO at Absolute DevOps.
-
-"Frances is the **most accomplished UX professional** I've had the pleasure of working with."
-Michael Davey, Director of UX & Strategy at HeathWallace
 
 "Frances is an **absolute joy to work with**. Not only are her **UX/design skills & consultative abilities top-class**, she's an **inspiring and natural leader** who motivates and nurtures the team in what seems like an effortless manner."
 Josie Downey, Information Architect at HeathWallace.
@@ -59,6 +54,9 @@ Rob Mansfield, Digital Content Editor at Time Inc UK.
 
 "She has played a **fundamental role in promoting and implementing Agile working practices** across our Central Development function. This has lead to **increased productivity, output and overall levels of satisfaction**."
 Tara Hamilton-Whitaker, Director of Programmes at Time Inc UK.
+
+**"Anyone who meets her and doesn't make her an instant offer is making one of the biggest mistakes possible for their company."**
+Andy Jeffries, CTO at Absolute DevOps.
 
 ## Things I believe in:
 * **purpose-driven organisations**, e.g. Zappos, Medium, Makers Academy, and **bringing your whole self to work**
