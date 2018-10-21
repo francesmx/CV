@@ -1,7 +1,7 @@
 # Frances Maxwell
-### User Experience & Service Designer with Junior-Level Full Stack Development Skills
+### Human-Centred Software Engineer
 
-One of the most enthusiastic people you're likely to meet! I have 17 years' digital experience in financial services, telecoms, publishing, government and the arts, and I'm an evangelist for human-centred, data-driven methods.
+One of the most enthusiastic people you're likely to meet! I have 17 years' digital experience in financial services, telecoms, publishing, government and the arts. I'm very lucky right now to be able to combine my UX and product background with my development skills, because I get a lot of joy out of bringing ideas to life!
 
 ## Things I can do:
 * Carry out research to **understand customer needs** and pain points
@@ -24,7 +24,9 @@ One of the most enthusiastic people you're likely to meet! I have 17 years' digi
 * **Lectured in Human Computer Interaction (HCI)** at Reading University
 
 ## Recent, relevant work experience:
-* Right now **Senior Service Designer** at [BJSS](http://www.bjss.com) (technology consultancy)
+* Right now **Software Engineer** at [Skyscanner](http://www.skyscanner.net) (travel search)
+* 4 month contract as **Service Designer** at [ACCA](http://www.accaglobal.com) (global accountancy body)
+* 1 year contract as **Senior Service Designer** at [BJSS](http://www.bjss.com) (technology consultancy)
 * 3 years as **Lead User Experience Architect** at [Three UK](http://www.three.co.uk/) (mobile network operator)
 * 5 years as **Managing Consultant - UX & Strategy** at [HeathWallace UK](http://www.heathwallace.com/) (Top 10 NMA Design & Build agency)
 * 1.5 years as **Product Manager** at [Time Inc, UK](https://www.timeincuk.com/) (consumer magazine publisher)
@@ -70,6 +72,6 @@ I am open to collaborations and opportunities associated with:
 * **startups** / entrepreneurship / solving juicy problems elegantly
 * **bringing people together** / facilitating human connection
 
-I would love to combine my UX background with my development skills, because I get a lot of joy out of bringing ideas to life. I am familiar with Ruby (vanilla, Sinatra, Rails) and JavaScript (vanilla, jQuery, Meteor, React Native) and several testing frameworks, but could easily transfer to other languages and frameworks.
+I'm familiar with Ruby (vanilla, Sinatra, Rails) and JavaScript (vanilla, jQuery, Meteor, React) and several testing frameworks, but could easily transfer to other languages and frameworks.
 
-I'm based in Glasgow (UK) but I can travel occasionally, and I'm very experienced with remote working - from both a technical and a cultural viewpoint!
+I'm based in Glasgow (UK) but I can travel occasionally, and I'm very experienced with remote working.
