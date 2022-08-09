@@ -24,7 +24,8 @@ One of the most enthusiastic people you're likely to meet! I have 17 years' digi
 * **Lectured in Human Computer Interaction (HCI)** at Reading University
 
 ## Recent, relevant work experience:
-* Right now **Software Engineer** at [Skyscanner](http://www.skyscanner.net) (travel search)
+* Right now **Frontend Engineer** at [Cleo](https://web.meetcleo.com) (Gen Z fintech mobile app)
+* 3.5 years as **Software Engineer** at [Skyscanner](http://www.skyscanner.net) (travel search)
 * 4 month contract as **Service Designer** at [ACCA](http://www.accaglobal.com) (global accountancy body)
 * 1 year contract as **Senior Service Designer** at [BJSS](http://www.bjss.com) (technology consultancy)
 * 3 years as **Lead User Experience Architect** at [Three UK](http://www.three.co.uk/) (mobile network operator)
